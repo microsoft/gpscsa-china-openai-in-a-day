@@ -1,9 +1,18 @@
 # App innovation with Azure Openai In-A-Day --Microsoft China GPS Tech 
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+> 本In-a-day Workshop利用一天时间与客户一起交流Azure Openai技术及解决方案，并演示基于场景的openai demo，并根据客户需求定制化一些内容，比如可能增加动手实验环节
 
-As the maintainer of this project, please make a few updates:
+[快速开启Azure Openai Service ChatGPT进行体验](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-studio)
+[使用 OpenAI API 构建智能聊天机器人并将并部署到 Azure App Service 和Microsoft Teams App](https://github.com/microsoft/gps-csa-tech-stack/tree/main/Create-A-ChatGPT-Bot-APP-and-Deploy-To-Azure-APP-Service-or-Teams-APP)
+[使用Azure Openai和Azure Cognitive Search智能搜索企业数据](https://github.com/Azure-Samples/azure-search-openai-demo/)
+[探索 Azure OpenAI 服务嵌入和文档搜索](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/tutorials/embeddings?tabs=command-line)
+[使用语音与 Azure OpenAI 对话](https://github.com/openai/openai-cookbook)
+[Openai官方Cookbook，包含多个不同场景的sample](https://github.com/openai/openai-cookbook)
+[Azure Openai官方文档](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/)
+
+
+
+
 
 - Improving this README.MD file to provide a great experience
 - Updating SUPPORT.MD with content about this project's support experience
