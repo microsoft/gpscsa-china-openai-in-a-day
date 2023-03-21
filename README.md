@@ -1,15 +1,19 @@
 # App innovation with Azure Openai In-A-Day --Microsoft China GPS Tech 
 
+ ![architecture](./media/1.png)
 ## In-A-Day介绍 
 App innovation with Azure Openai In-a-day Workshop利用一天时间与客户一起交流Azure Openai技术及解决方案，并演示基于场景的openai demo，并根据客户需求定制化一些内容，比如可能增加动手实验环节。所需基本客户交流的deck在[这里](./Workshop%20Content/)
 ### 以下是供参考的sample，lab guide或文档：
 
 - [快速开启Azure Openai Service ChatGPT进行体验](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-studio)
 - [使用 OpenAI API 构建智能聊天机器人并将并部署到 Azure App Service 和Microsoft Teams App](https://github.com/microsoft/gps-csa-tech-stack/tree/main/Create-A-ChatGPT-Bot-APP-and-Deploy-To-Azure-APP-Service-or-Teams-APP)
-- [使用Azure Openai和Azure Cognitive Search智能搜索企业数据](https://github.com/Azure-Samples/azure-search-openai-demo/)
+- [企业特定领域的知识问答：Web crawl + QA (Notebook)](https://github.com/openai/openai-cookbook/tree/main/apps/file-q-and-a)
+- [企业特定领域的知识问答：Long text + QA](https://github.com/Azure-Samples/azure-search-openai-demo/)
+- [企业特定领域的知识问答：OCR + QA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna)
+- [企业特定领域的知识问答：使用Azure Openai和Azure Cognitive Search智能搜索企业数据](https://github.com/Azure-Samples/azure-search-openai-demo/)
 - [探索 Azure OpenAI 服务嵌入和文档搜索](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/tutorials/embeddings?tabs=command-line)
 - [使用语音与 Azure OpenAI 对话](https://github.com/openai/openai-cookbook)
-- [Openai官方Cookbook，包含多个不同场景的sample](https://github.com/openai/openai-cookbook)
+- [包含多个不同场景的sample请参考Openai官方Cookbook](https://github.com/openai/openai-cookbook)
 - [Azure Openai官方文档](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/)
 
 
