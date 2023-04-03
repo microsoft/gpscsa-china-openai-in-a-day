@@ -3,10 +3,13 @@
  ![architecture](./media/1.png)
 ## In-A-Day介绍 
 App innovation with Azure Openai In-a-day Workshop利用一天时间与客户一起交流Azure Openai技术及解决方案，并演示基于场景的openai demo，并根据客户需求定制化一些内容，比如可能增加动手实验环节。所需基本客户交流的deck在[这里](./Workshop%20Content/)
-### 以下是在In-A-Day Workshop上重点完成的Demo示例，建议听众能在当天完成这些动手实验（可以二选一）：
-- [企业特定领域的知识问答：OCR + QA](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna)
-- [企业特定领域的知识问答：使用Azure Openai和Azure Cognitive Search智能搜索企业数据](https://github.com/Azure-Samples/azure-search-openai-demo/)
-### 以下是供参考的sample，lab guide或文档：
+
+
+### 以下是在In-A-Day Workshop上重点完成的Demo示例，建议听众能在当天完成这些动手实验：
+- [关系型数据SQL智能交互](https://github.com/teo-ma/AzureSQLChatGPTDemo)
+- [企业特定领域的知识问答：OCR + QA](https://github.com/teo-ma/azure-open-ai-embeddings-qna)
+- [企业特定领域的知识问答：使用Azure Openai和Azure Cognitive Search智能搜索企业数据](https://github.com/teo-ma/azure-search-openai-demo)
+### 以下是供参考的sample，动手实验指南或文档：
 
 - [快速开启Azure Openai Service ChatGPT进行体验](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-studio)
 - [使用 OpenAI API 构建智能聊天机器人并将并部署到 Azure App Service 和Microsoft Teams App](https://github.com/microsoft/gps-csa-tech-stack/tree/main/Create-A-ChatGPT-Bot-APP-and-Deploy-To-Azure-APP-Service-or-Teams-APP)
@@ -16,6 +19,9 @@ App innovation with Azure Openai In-a-day Workshop利用一天时间与客户一
 - [Azure Openai官方文档](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/)
 
 
+## 在线体验不同场景的Azure Openai Demo（微软中国GPS CSA团队提供）请访问[Openai Democenter](https://agreeable-flower-0968eb610.2.azurestaticapps.net/)
+
+ ![architecture](./media/democenter.jpg)
 
 
 ## Contributing
