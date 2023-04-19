@@ -7,7 +7,7 @@ App innovation with Azure Openai In-a-day Workshop利用一天时间与客户一
 
 ### 以下是在In-A-Day Workshop上重点完成的动手实验：
 - [快速入门：体验ChatGPT并通过程序调用它的API](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-studio)
-- [企业特定领域的知识问答：OCR + QA](https://github.com/teo-ma/azure-open-ai-embeddings-qna)
+- [多模态企业数据知识库智能搜索](https://github.com/teo-ma/azure-open-ai-embeddings-qna)
 - [关系型数据SQL智能交互](https://github.com/teo-ma/AzureSQLChatGPTDemo)
 
 
