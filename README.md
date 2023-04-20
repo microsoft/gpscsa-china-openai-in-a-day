@@ -16,7 +16,7 @@ App innovation with Azure Openai In-a-day Workshop利用一天时间与客户一
 - [部署企业自己的Chat GPT-openai官方Chatgpt的最小克隆](https://github.com/teo-ma/cosmosdb-chatgpt)
 - [使用 OpenAI API 构建智能聊天机器人并将并部署到 Azure App Service 和Microsoft Teams App](https://github.com/microsoft/gps-csa-tech-stack/tree/main/Create-A-ChatGPT-Bot-APP-and-Deploy-To-Azure-APP-Service-or-Teams-APP)
 - [探索 Azure OpenAI 服务嵌入和文档搜索](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/tutorials/embeddings?tabs=command-line)
-- [使用语音与 Azure OpenAI 对话](https://github.com/openai/openai-cookbook)
+- [使用语音与 Azure OpenAI 对话](https://learn.microsoft.com/zh-cn/azure/cognitive-services/speech-service/openai-speech)
 - [包含多个不同场景的sample请参考Openai官方Cookbook](https://github.com/openai/openai-cookbook)
 - [Azure Openai官方文档](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/)
 
