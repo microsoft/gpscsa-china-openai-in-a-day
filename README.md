@@ -1,6 +1,15 @@
 # App innovation with Azure Openai In-A-Day --Microsoft China GPS Tech 
 
  ![architecture](./media/1.png)
+## DevHack 
+
+### 以下是在DevHack上重点完成的动手实验：
+- [利用Prompt Flow实现端到端的基于LLM的提示流开发](https://github.com/zwang53/prompt-flow/tree/main)
+- [基于API Management 实现多个资源的调度](https://github.com/ChengLiNonProduction/APIM_workshop/tree/main)
+- (Optional)[利用Cosmos DB作向量库和历史会话存储](https://github.com/AzureCosmosDB/VectorSearchAiAssistant/tree/mongovcorev2)
+- (Optional)[利用Azure Cognitive Search增强搜索](https://github.com/Azure-Samples/azure-search-openai-demo/)
+
+
 ## In-A-Day介绍 
 App innovation with Azure Openai In-a-day Workshop利用一天时间与客户一起交流Azure Openai技术及解决方案，并演示基于场景的openai demo，并根据客户需求定制化一些内容，比如可能增加动手实验环节。所需基本客户交流的deck在[这里](./Workshop%20Content/)
 
